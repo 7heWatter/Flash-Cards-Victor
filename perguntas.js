@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual o território autônomo da Dinamarca conhecido por suas montanhas dramáticas e sua ausência de árvores?',
+    'Qual a ilha autônomo da Dinamarca conhecido por suas montanhas dramáticas e sua falta de árvores?',
     'Ilhas faroe',
 )
