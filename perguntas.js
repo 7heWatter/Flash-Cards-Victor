@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Qual ilha autonoma da dinamarca que possui montanhas dramaticas e não tem árvores?',
-    'Ilhas faroe',
+    'Ilhas faroé.',
 )
