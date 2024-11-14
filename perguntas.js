@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Astronomia',
-    'O que tem na superfíce de gliese 436b?',
+    'O que tem na superfíce do planeta gliese 436b?',
     'água, porém, em um estado incomum: gelo quente.',
 )
 
